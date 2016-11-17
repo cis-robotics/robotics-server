@@ -1,0 +1,14 @@
+{
+  "name": "robotics-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/cis-robotics/robotics-server",
+    "type": "git"
+  },
+  "author": "Arthelon <hsing.daniel@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "socket.io": "^1.5.1"
+  }
+}
